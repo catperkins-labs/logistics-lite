@@ -1,0 +1,6 @@
+@LogisticsLite.Api_HostAddress = http://localhost:8080
+
+GET {{LogisticsLite.Api_HostAddress}}/health
+Accept: application/json
+
+###

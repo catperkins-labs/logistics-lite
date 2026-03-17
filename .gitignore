@@ -1,0 +1,28 @@
+# .NET build artifacts
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.db
+*.db-shm
+*.db-wal
+
+# .NET publish
+publish/
+out/
+
+# EF Core migrations snapshots are tracked; build outputs are not
+# (nothing extra to ignore here)
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+
+# Environment files (real values)
+.env
+
+# OS
+.DS_Store
+Thumbs.db
