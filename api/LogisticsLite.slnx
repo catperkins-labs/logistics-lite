@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LogisticsLite.Api/LogisticsLite.Api.csproj" />
+    <Project Path="src/LogisticsLite.Data/LogisticsLite.Data.csproj" />
+  </Folder>
+</Solution>
